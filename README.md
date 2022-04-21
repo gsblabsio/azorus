@@ -9,7 +9,7 @@ The UTXO Blockchain Intelligence Platform
 * [Twitter](https://twitter.com/azorus_xyz)
 * Discord
 	+ [Official](https://discord.gg/VXPSCBtN6S)
-	+ [ErgoPad sub-channel](https://discord.gg/MdQMWGgcPP)
+	+ [ErgoPad channel](https://discord.gg/MdQMWGgcPP)
 * Telegram
 
 
