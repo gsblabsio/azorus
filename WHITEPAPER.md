@@ -2,11 +2,11 @@
 
 ## The UTXO Blockchain Intelligence Platform
 
-Blockchain ledger data is immutable, secure, transparent, and readily available to everyone.
+Blockchain ledger data is immutable, secure, transparent, and readily available to everyone. 
 
-Accessing this information in its current state, however, requires a large time and material investment just to retrieve even the most basic of ecosystem statistics. For instance, he or she will need to know how to interact with the blockchain, maintain the data pipelines, write code to extract the data, analyze and visualize to draw insights, then share it with the rest of the world for consumption. This is multiple jobs that a person may not always be willing to accept. Additionally, some users are only interested in providing the data while others just want to create the analysis and reports. 
+Accessing this information in its current state, however, requires a large amount of time and material investment just to retrieve even the most basic of ecosystem statistics. For instance, he or she will need to know how to interact with the blockchain, maintain the data pipelines, write code to extract the data, analyze and visualize to draw insights, then share it with the rest of the world for consumption. These are multiple jobs that a person may not always be willing to accept. Additionally, some users are only interested in providing the data while others just want to create the analysis and reports. 
 
-To solve for this we intend to build Azorus, a web3 based data intelligence suite for all UTXO blockchains. This data platform allows our core customers to focus specifically on interfacing with blockchain data, decrease their time to visualization, analysis and insights, while also offering the customization and flexibility of using their preferred programming language.
+To solve for this, we intend to build Azorus, a web3 based data intelligence suite for all UTXO blockchains. This data platform allows our core customers to focus specifically on interfacing with blockchain data, decrease their time to visualization, analysis and insights, while also offering the customization and flexibility of using their preferred programming language.
 
 We will first focus our efforts on Ergo but once the core infrastructure and UI components are cemented in place, we will expand to integrate across all UTXO technologies while also moving towards a fully decentralized service.
 
@@ -24,11 +24,11 @@ The dramatic rise in data has outpaced the traditional labor market to produce s
 
 ### Cloud IDE
 
-Programming on a local environment can be daunting for new developers when they are not sure if their machine will be limited to hardware performance. For veterans, it can be frustrating to setup a consistent development environment where correct syncing is required to collaborate with others. With an increasingly distributed workforce since the COVID-19 pandemic and a worldwide chip shortage that is driving up consumer prices[^fn6], it becomes mission critical for us to ensure anyone can access blockchain data at scale even if they do not have the top of the line hardware - just need a web browser and stable internet connection. To secure a competitive advantage, it is imperative future projects will also need to achieve this minimalist yet seamless user experience. 
+Programming on a local environment can be daunting for new developers when they are not sure if their machine will be limited by hardware performance. For veterans, it can be frustrating to setup a consistent development environment where correct syncing is required to collaborate with others. With an increasingly distributed workforce since the COVID-19 pandemic and a worldwide chip shortage that is driving up consumer prices[^fn6], it becomes mission critical for us to ensure anyone can access blockchain data at scale even if they do not have the top of the line hardware - just need a web browser and stable internet connection. To secure a competitive advantage, it is imperative future projects will also need to achieve this minimalist yet seamless user experience. 
 
 ### UTXO vs Account Model
 
-There have been a lot of literature[^fn7] published[^fn8] on this topic[^fn9] over the years so we will not dive too much into it. With that being said, we believe the UTXO model will be the industry standard to efficiently and securely deploy financial contracts in the future. 
+There has been a lot of literature[^fn7] published[^fn8] on this topic[^fn9] over the years so we will not dive too much into it. With that being said, we believe the UTXO model will be the industry standard to efficiently and securely deploy financial contracts in the future. 
 
 ### Ergo
 
@@ -42,11 +42,11 @@ The current market mindset focuses too much on price action and very specific pr
 
 ### Data Accessibility
 
-We believe individuals and businesses should have an easy process to collect and analyze blockchain data to make informed decisions. With that being said, there is a lack of flexible and custom onchain analytics software in this industry. This need will become more apparent in the coming years as the field matures and more projects are launched with the UTXO model. 
+We believe individuals and businesses should have an easy time collecting and analyzing blockchain data to make informed decisions. With that being said, there is a lack of flexible and custom onchain analytics software in this industry. This need will become more apparent in the coming years as the field matures and more projects are launched with the UTXO model. 
 
 ### Technical Barrier 
 
-There exists a fairly steep learning curve for someone who just wants to retrieve and visualize blockchain data. For example, setting up a node requires some hardware knowlege but launching it also requires executing software just to get the base layer ready. Successfully completing both components may be out of reach or even beyond the appetite of the average customer. 
+There exists a fairly steep learning curve for someone who just wants to retrieve and visualize blockchain data. For example, setting up a node requires some hardware knowlege, but launching it also requires executing software just to get the base layer ready. Successfully completing both components may be out of reach or even beyond the appetite of the average customer. 
 
 ### Limited Flexibility
 
@@ -68,11 +68,11 @@ We believe there is no "correct" data science computing language to retrieve, an
 
 ### Enterprise Capabilities
 
-If Azorus intends to handle datastreams that power web3 businesses or become the platform for data scientists to build large scale economic models, we neeed to easily handle large computational loads. Data stability and reliability will always be a first class citizen to inspire confidence in the platform from not just instituational customers but also newcomers to the blockchain analytics industry who just want to learn how everything works.
+If Azorus intends to handle datastreams that power web3 businesses or become the platform for data scientists to build large scale economic models, we need to easily handle large computational loads. Data stability and reliability will always be a first class citizen to inspire confidence in the platform from not just instituational customers, but also newcomers to the blockchain analytics industry who just want to learn how everything works.
 
 ### Feedback Loop
 
-Other blockchains like Ethereum already have a saturated market of analytics tooling all vying for attention. By developing Azorus on nascent UTXO technology, we have the advantage of cultivating product feedback very early to address customer issues, opportunity to set the analytics standard, and move much faster than being in a crowded market. In addition to this, it allows us to invite and foster a collaborative spirit for the next generation of blockchain analysts into the ecosystem. 
+Other blockchains like Ethereum already have a saturated market of analytics tooling vying for attention. By developing Azorus on nascent UTXO technology, we have the advantage of cultivating product feedback very early to address customer issues, opportunity to set the analytics standard, and move much faster than being in a crowded market. In addition to this, it allows us to invite and foster a collaborative spirit for the next generation of blockchain analysts into the ecosystem. 
 
 ### Hybrid Service
 
