@@ -4,11 +4,11 @@
 
 Blockchain ledger data is immutable, secure, transparent, and readily available to everyone. 
 
-Accessing this information in its current state, however, requires a large amount of time and material investment just to retrieve even the most basic of ecosystem statistics. For instance, he or she will need to know how to interact with the blockchain, maintain the data pipelines, write code to extract the data, analyze and visualize to draw insights, then share it with the rest of the world for consumption. These are multiple jobs that a person may not always be willing to accept. Additionally, some users are only interested in providing the data while others just want to create the analysis and reports. 
+Accessing this information in its current state, however, requires a large amount of time and material investment just to retrieve even the most basic of ecosystem statistics. For instance, he or she will need to know how to interact with the blockchain, maintain the data pipelines, write code to extract the data, analyze and visualize it to draw insights, then share it with the rest of the world for consumption. These are multiple jobs that a person may not always be willing to accept. Additionally, some users are only interested in providing the data, while others just want to create analysis and reports. 
 
 To solve for this, we intend to build Azorus, a web3 based data intelligence suite for all UTXO blockchains. This data platform allows our core customers to focus specifically on interfacing with blockchain data, decrease their time to visualization, analysis and insights, while also offering the customization and flexibility of using their preferred programming language.
 
-We will first focus our efforts on Ergo but once the core infrastructure and UI components are cemented in place, we will expand to integrate across all UTXO technologies while also moving towards a fully decentralized service.
+We will first focus our efforts on Ergo, but once the core infrastructure and UI components are cemented in place, we will expand to integrate across all UTXO technologies while also moving towards a fully decentralized service.
 
 ## Background
 
@@ -16,7 +16,7 @@ The section below higlights some of the macro trends that are happening at a glo
 
 ### Big Data
 
-In the past decade, the world has experienced a parabolic rise in data generation capabilities which has spawned a data analytics industry estimated at $198 billion in 2020[^fn1]. This trend is expected to continue with a projected market size of approximately $235 billion by 2026[^fn2] and $346 billion by 2030[^fn3]. Although it is a fledgling technology, we can extrapolate from this that blockchain ledger data will also play a crucial role for the future of web3 infrastructure. Thus, we can anticipate the growth trajectory and the need for blockchain intelligence to mirror that of the early big data industry.
+Over the past decade, the world has experienced a parabolic rise in data generation capabilities which has spawned a data analytics industry estimated at $198 billion in 2020[^fn1]. This trend is expected to continue with a projected market size of approximately $235 billion by 2026[^fn2] and $346 billion by 2030[^fn3]. Although it is a fledgling technology, we can extrapolate from this that blockchain ledger data will also play a crucial role for the future of web3 infrastructure. Thus, we can anticipate the growth trajectory and the need for blockchain intelligence to mirror that of the early big data industry.
 
 ### Skills Shortage
 
@@ -24,7 +24,7 @@ The dramatic rise in data has outpaced the traditional labor market to produce s
 
 ### Cloud IDE
 
-Programming on a local environment can be daunting for new developers when they are not sure if their machine will be limited by hardware performance. For veterans, it can be frustrating to setup a consistent development environment where correct syncing is required to collaborate with others. With an increasingly distributed workforce since the COVID-19 pandemic and a worldwide chip shortage that is driving up consumer prices[^fn6], it becomes mission critical for us to ensure anyone can access blockchain data at scale even if they do not have the top of the line hardware - just need a web browser and stable internet connection. To secure a competitive advantage, it is imperative future projects will also need to achieve this minimalist yet seamless user experience. 
+Programming on a local environment can be daunting for new developers when they are not sure if their machine will be limited by hardware performance. For veterans, it can be frustrating to setup a consistent development environment where correct syncing is required to collaborate with others. With an increasingly distributed workforce since the COVID-19 pandemic, and a worldwide chip shortage that is driving up consumer prices[^fn6], it becomes mission critical for us to ensure anyone can access blockchain data at scale even if they do not have the top of the line hardware, but just a web browser and a stable internet connection. To secure a competitive advantage, future projects will also need to achieve this minimalist yet seamless user experience. 
 
 ### UTXO vs Account Model
 
@@ -32,7 +32,7 @@ There has been a lot of literature[^fn7] published[^fn8] on this topic[^fn9] ove
 
 ### Ergo
 
-The current market mindset focuses too much on price action and very specific product "features." Ergo, however, is one of the very few cryptocurrencies being developed where individual privacy, security, and decentralization is a first class citizen. Technology will always come and go but having a vision that galvanizes builders from all over the world to turn this idea into reality is a force to reckon with and why we intend to first launch on this blockchain. 
+The current market mindset focuses too much on price action and very specific product "features." Ergo, however, is one of the very few cryptocurrencies being developed where individual privacy, security, and decentralization is a first class citizen. Technology will always come and go, but having a vision that galvanizes builders from all over the world to turn this idea into reality is a force to reckon with, and why we intend to first launch on this blockchain. 
 
 > We encourage everyone to read the Ergo Manifesto[^fn10] if they have not already done so.
 
@@ -42,7 +42,7 @@ The current market mindset focuses too much on price action and very specific pr
 
 ### Data Accessibility
 
-We believe individuals and businesses should have an easy time collecting and analyzing blockchain data to make informed decisions. With that being said, there is a lack of flexible and custom onchain analytics software in this industry. This need will become more apparent in the coming years as the field matures and more projects are launched with the UTXO model. 
+We believe individuals and businesses should have an easy time collecting and analyzing blockchain data to make informed decisions. With that being said, there is a lack of flexible and custom onchain analytics software in the industry. This need will become more apparent in the coming years as the field matures and more projects are launched with the UTXO model. 
 
 ### Technical Barrier 
 
@@ -50,7 +50,7 @@ There exists a fairly steep learning curve for someone who just wants to retriev
 
 ### Limited Flexibility
 
-The current tooling in this space achieves what they set out to do - provide data views on broader ecosystem health. However, services like Glassnode on Ethereum are fully centralized. This comes at a cost to data accessibility and creates a central point of failure when the customer just wants a specific view but they need to wait for a product update that may never happen due to competing internal priorities. 
+The current tooling in this space achieves what it set out to do - provide data views on broader ecosystem health. However, services like Glassnode on Ethereum are fully centralized. This comes at a cost to data accessibility and creates a central point of failure when the customer just wants a specific view but they need to wait for a product update that may never happen due to competing internal priorities. 
 
 ### Custom Visualization
 
@@ -58,13 +58,13 @@ Websites like Dune Analytics is a SQL-based system which means any type of graph
 
 ### Audience Interests
 
-Everyone has varying degrees of time, interest, and programming knowledge when it comes to blockchain data. Some enjoy setting up the entire workflow from node launch to report publications, others just want to view charts, yet another segment is only intrigued by developing machine learning models with blockchain data. As it currently stands, only a few individuals in the Ergo community who can play all of these parts. Thus, a platform is needed to serve all these varying user interests and accelerate growth outside of our immediate UTXO communities. 
+Everyone has varying degrees of time, interest, and programming knowledge when it comes to blockchain data. Some enjoy setting up the entire workflow from node launch to report publications, others just want to view charts, yet another segment is only intrigued by developing machine learning models with blockchain data. As it currently stands, there are only a few individuals in the Ergo community who can play all of these parts. Thus, a platform is needed to serve all these varying user interests and accelerate growth outside of our immediate UTXO communities. 
 
 ## Product Vision
 
 ### Blockchain Science
 
-We believe there is no "correct" data science computing language to retrieve, analyze, and visualize blockchain data. Our goal is to leave that decision up to the customer to determine what the right tool is for the job. Thus, Azorus will first launch with in-browser kernels that have SQL, Python, and R capabilties along with popular machine learning and artificial intelligence modules. As the platform grows we will expand our coverage depending on customer demand.
+We believe there is no "correct" data science computing language to retrieve, analyze, and visualize blockchain data. Our goal is to leave that decision up to the user to determine what the right tool is for the job. Thus, Azorus will first launch with in-browser kernels that have SQL, Python, and R capabilties along with popular machine learning and artificial intelligence modules. As the platform grows we will expand our coverage depending on customer demand.
 
 ### Enterprise Capabilities
 
@@ -72,15 +72,15 @@ If Azorus intends to handle datastreams that power web3 businesses or become the
 
 ### Feedback Loop
 
-Other blockchains like Ethereum already have a saturated market of analytics tooling vying for attention. By developing Azorus on nascent UTXO technology, we have the advantage of cultivating product feedback very early to address customer issues, opportunity to set the analytics standard, and move much faster than being in a crowded market. In addition to this, it allows us to invite and foster a collaborative spirit for the next generation of blockchain analysts into the ecosystem. 
+Other blockchains like Ethereum already have a saturated market of analytics tooling vying for attention. By developing Azorus on nascent UTXO technology, we have the advantage of cultivating product feedback very early to address customer issues, opportunity to set the analytics standard, and to move much faster than being in a crowded market. In addition to this, it allows us to invite and foster a collaborative spirit for the next generation of blockchain analysts into the ecosystem. 
 
 ### Hybrid Service
 
-The end goal is to have a fully decentralized data infrastructure for all audiences of the platform: data providers, computation miners, blockchain analysts, and consumers. We imagine everyone has access to Azorus functionality straight from their Ergo/UTXO node without the need to connect to the Azorus website and preserve their individual privacy. To achieve this though it is crucial to recognize a bridge is required to migrate potential customers from the current web2 paradigm and future web3 world. This hybrid approach ensures Azorus offers an experience that web2 users are already familiar with but also move the company toward profitability instead of spinning our wheels waiting for "mass adoption" to happen.
+The end goal is to have a fully decentralized data infrastructure for all audiences of the platform inclding data providers, computation miners, blockchain analysts, and consumers. We imagine everyone having access to Azorus functionality straight from their Ergo/UTXO node without the need to connect to the Azorus website and preserve their individual privacy. To achieve this though, it is crucial to recognize that a bridge is required to migrate potential customers from the current web2 paradigm and future web3 world. This hybrid approach ensures Azorus offers an experience that web2 users are already familiar with but also move the company toward profitability instead of spinning our wheels waiting for "mass adoption" to happen.
 
 ### Platform Ownership
 
-The blockchain analytics business rely on the web2 paradigm of having its creators and customer base share their content with others. This relationship dynamic benefits the service provider only as it offers them subscription revenue, branding, and valuable social signals to further improve their product. All of this is obtained without ever reciprocating anything in return for this skewed interaction. The Azorus team maintains that all design philosophy will adhere to the ideal that everyone should be compensated in some way, shape or form for their contributions.
+The blockchain analytics business relies on the web2 paradigm of having its creators and customer base share their content with others. This relationship dynamic benefits the service provider only as it offers them subscription revenue, branding, and valuable social signals to further improve their product. All of this is obtained without ever reciprocating anything in return for this skewed interaction. The Azorus team maintains that all design philosophy will adhere to the ideal that everyone should be compensated in some way, shape or form for their contributions.
 
 ## Applications
 
@@ -88,7 +88,7 @@ Below is a non-exhaustive sample of how Azorus customers can leverage the platfo
 
 ### Data Feed
 
-Every project can run their own node to retrieve blockchain data as they see fit. But what if it is just an early proof of concept and they want to validate its use case? It may not be worth figuring out how to set all of that up from the start but instead invest their time on building the product. Similarly, there might be a blockchain analyst who developed a unique predictive model that pulls in data offchain as well. It may be beneficial for an existing project to integrate this with their services and pay for the API usage.
+Every project can run their own node to retrieve blockchain data as they see fit. But what if it is just an early proof of concept and they want to validate its use case? It may not be worth figuring out how to set all of that up from the start, but instead, invest their time on building the product. Similarly, there might be a blockchain analyst who developed a unique predictive model that pulls in data offchain as well. It may be beneficial for an existing project to integrate this with their services and pay for the API usage.
 
 ### Trading Bots
 
@@ -96,7 +96,7 @@ Most, if not all, cryptocurrency trading bots on the market rely on price action
 
 ### Portfolio Management
 
-Tracking asset performance is important for getting a read on overall investment health. However, it is just as important to log minute transaction details, especially for customers in particular jurisdictions that have stricter tax laws. This is where accounting software can integrate with Azorus data pipelines to not only warehouse historical data, but also utilize as the base layer to categorize when an asset or NFT was bought/sold and calculate the profit/loss at the time of the transaction. Using blockchain data would ultimately remove this manual record keeping work for a large number of investors.
+Tracking asset performance is important for getting a read on overall investment health. However, it is just as important to log minute transaction details, especially for customers in particular jurisdictions that have stricter tax laws. This is where accounting software can integrate with Azorus data pipelines to not only warehouse historical data, but also utilize it as the base layer to categorize when an asset or NFT was bought/sold and calculate the profit/loss at the time of the transaction. Using blockchain data would ultimately remove this manual record keeping work for a large number of investors.
 
 ### Community Engagement
 
@@ -130,7 +130,7 @@ To guarantee we build a long-term sustainable acquisition pipeline, we will anch
 
 ## Roadmap
 
-This is not the final version but a rough timeline based on engineering estimates at the time of this writing.
+This is not the final version, but a rough timeline based on engineering estimates at the time of this writing.
 
 | Phase | Category | Description | Timeframe |
 | --- | --- | --- | --- | 

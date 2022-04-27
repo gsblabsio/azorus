@@ -10,7 +10,7 @@ The UTXO Blockchain Intelligence Platform
 * Discord
 	+ [Official](https://discord.gg/VXPSCBtN6S)
 	+ [ErgoPad channel](https://discord.gg/MdQMWGgcPP)
-* Telegram
+* [Telegram](https://t.me/+W0Cnh7E3H045NzNh)
 
 
 ## Why Azorus?
