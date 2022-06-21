@@ -254,11 +254,11 @@ We have listed a few notable callouts below regarding the design of the Azorus t
 
 ## [WIP] Distribution
 
-![](static/distro.png)
+*Not Finalized*
 
 ## [WIP] Emission
 
-![](static/emission.png)
+*Not Finalized*
 
 ## [WIP] Platform Rewards
 
