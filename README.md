@@ -3,6 +3,7 @@
 The UTXO Blockchain Intelligence Platform
 
 * [Whitepaper](https://github.com/gsblabsio/azorus/blob/main/WHITEPAPER.md)
+* [One Pager](https://github.com/gsblabsio/azorus/blob/main/SUMMARY.md)
 * [Landing Page](https://azorus.xyz/)
 
 ## Socials
@@ -23,7 +24,6 @@ The UTXO Blockchain Intelligence Platform
 *Azorus* was the helmsman of the ship *Argo*, from Greek mythology about *Jason and the Argonauts*.
 
 This is a nod to the next generation blockchain, Ergo, and how our platform, services, and infrastructure will navigate your way to success. 
-
 
 
 
