@@ -23,7 +23,7 @@ The UTXO Blockchain Intelligence Platform
 
 *Azorus* was the helmsman of the ship *Argo*, from Greek mythology about *Jason and the Argonauts*.
 
-This is a nod to the next generation blockchain, Ergo, and how our platform, services, and infrastructure will navigate your way to success. 
+From a modern day perspective: our platform, services, and infrastructure will help navigate your way to success.
 
 
 
