@@ -18,12 +18,12 @@ The UTXO Blockchain Intelligence Platform
 * [ErgoHack Fest Prototype Submission](https://www.youtube.com/watch?v=SD8bDf-nxTQ)
 * [Proof of Ergo e06: Working the System](https://www.youtube.com/watch?v=TQsmtNvqYo8)
 * [Twitter Spaces AMA with Ergo Platform & Sigmaverse](https://twitter.com/ergoplatformorg/status/1537245710957301760)
+* [Sigma Prism episode #13: AZORUS - UTXO Blockchain Intelligence](https://www.youtube.com/watch?v=9jgOe5Z5fpI)
 
 ## Why Azorus?
 
 *Azorus* was the helmsman of the ship *Argo*, from Greek mythology about *Jason and the Argonauts*.
 
 From a modern day perspective: our platform, services, and infrastructure will help navigate your way to success.
-
 
 
