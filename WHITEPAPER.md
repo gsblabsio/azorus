@@ -37,7 +37,7 @@ We will first focus our efforts on Ergo and the SQL programming language, but on
    * [Coronus: X-Chain Coverage (6 months)](#coronus-x-chain-coverage-6-months)
    * [Heracles: Road to Decentralization (9+ months)](#heracles-road-to-decentralization-9-months)
    * [Ideas Backlog](#ideas-backlog)
-* [Prototype](#prototype)
+* [From Prototype to Product](#from-prototype-to-product)
 * [Applications](#applications)
    * [Data Feed](#data-feed)
    * [Trading Bots](#trading-bots)
@@ -53,9 +53,8 @@ We will first focus our efforts on Ergo and the SQL programming language, but on
    * [[WIP] Incentivization](#wip-incentivization)
 * [Team Composition](#team-composition)
    * [Project Lead: Chris Yee](#project-lead-chris-yee)
-   * [Lead Developer: TenStepsAKill](#lead-developer-tenstepsakill)
+   * [Lead Developer: Walter Bodwell](#lead-developer-walter-bodwell)
    * [Art Director: Kenny Nguyen](#art-director-kenny-nguyen)
-   * [Technical Advisor: Walter Bodwell](#technical-advisor-walter-bodwell)
 * [Disclaimer](#disclaimer)
 
 # Background
@@ -138,24 +137,24 @@ This is not the final version, but a rough timeline based on engineering estimat
 
 - [x] Launch and sync multiple Ergo nodes
 - [x] Warehouse Ergo blockchain data
-- [ ] Setup platform security
-- [ ] Deploy disaster recovery and high availability systems
-- [ ] Integrate ErgoDEX liquidity pool & market data
+- [x] Setup platform security
+- [x] Deploy disaster recovery and high availability systems
+- [x] Integrate SpectrumDEX liquidity pool & market data
 - [ ] Download and store market data from CoinGecko
 - [ ] TBD: ErgoPad & SkyHarbor data integration
 
 ## Theseus: Best-in-Class Experience (6 months)
 
-- [ ] Blockchain query capabilities in web browser using SQL
-- [ ] Visualization library features for tabulated data
-- [ ] Report creation & sharing tools
-- [ ] Dashboard functionality for multiple reports and analysis
+- [x] Blockchain query capabilities in web browser using SQL
+- [x] Visualization library features for tabulated data
+- [x] Report creation & sharing tools
+- [x] Dashboard functionality for multiple reports and analysis
 - [ ] dApp connection and token utilization for platform access
 
 ## Orpheus: Accelerate & Scale for Growth (8 months)
 
 - [ ] Expand coverage of kernel notebooks to include R & Python
-- [ ] Full report and dashboard customization
+- [x] Full report and dashboard customization
 - [ ] API endpoint development
 - [ ] Gated market intelligence options
 - [ ] Custom services for enterprise audiences
@@ -170,9 +169,9 @@ This is not the final version, but a rough timeline based on engineering estimat
 
 - [ ] Merge and integrate all primary UTXO blockchains
 	- [ ] Bitcoin
-	- [ ] Cardano
+	- [x] Cardano
 	- [ ] Alephium	
-	- [ ] Nervos
+	- [x] Nervos
 	- [ ] Komodo
 - [ ] Identify and onboard additional dApps from other UTXO ecosystems
 
@@ -186,18 +185,19 @@ This is not the final version, but a rough timeline based on engineering estimat
 * Decentralized computation with Useful Proof of Work (UPoW) and/or off-chain bots
 * Oracle Pools (Delphi) integration to supplement with offchain data
 
-# Prototype
+# From Prototype to Product
+
+## Prototype
 
 Below is the query page UI mockup our team submitted for ErgoHack Fest.
 
 ![](static/azorus-mockup.png)
 
-And this is the final prototype submission video for the hackathon: https://www.youtube.com/watch?v=SD8bDf-nxTQ
+And this is the final prototype submission video for the hackathon: https://youtu.be/SD8bDf-nxTQ
 
-* Missing pagetypes
-   - Homepage
-   - Dashboards
-   - Analyst profile
+## Alpha 
+
+We released our (closed) Alpha version on October 2022 with the following demo video: https://youtu.be/czgQ5ALPggw
 
 # Applications
 
@@ -218,6 +218,8 @@ Tracking asset performance is important for getting a read on overall investment
 ## Community Engagement
 
 Querying blockchain data is one way for project owners to interact with ecosystem participants without directly asking them to provide sensitive information like their email or cryptocurrency address. An example of this is with the Mi Goreng memecoin airdrop in March 2022. The token creator, along with the author of this whitepaper and another ErgoDEX mod, queried the blockchain to identify all addresses that ever interacted with ErgoDEX. We then proceeded to airdrop tokens to each one of them which caused quite a stir in the Ergo community[^migoreng]. Using this method, the team went on to airdrop a few more rounds picking out different cohorts on the platform: addresses holding 1 or more $ERG, addresses that contributed to a specific liquidity pool, etc. 
+
+> YouTube video for [Use cases & applications: NFT creator dashboard](https://youtu.be/ZijrHvMZU7w)
 
 ## Massive Open Online Course 
 
@@ -245,6 +247,8 @@ To guarantee we build a long-term sustainable acquisition pipeline, we will anch
 | Bottom | High | Low | UTXO brand aware customers, active community members, true champions of the space. | Proactive community outreach within UTXO world. Tips and support for helping share Azorus content, reports, and marketing initiatives. Directly engage with projects building on UTXO platforms. | 
 
 # [WIP] Tokenomics
+
+> NOTE: this entire section is still a work in progress and can change at any time.
 
 We have listed a few notable callouts below regarding the design of the Azorus token.
 
@@ -287,17 +291,15 @@ Every participant of the Azorus blockchain intelligence platform will serve thei
 
 Chris (CurbsideProphet) is an active member of the Ergo community with contributions across many projects which include but are not limited to: {tidyergo}[^tidyergo], the 15 days of Ergo seed phrases[^seedphrases], the Enigma NFT series[^enigma], the ErgoDEX pricing app[^ergodex], r/ergonauts[^reddit], and The Delphi Project[^delphi].
 
-## Lead Developer: TenStepsAKill
+## Lead Developer: Walter Bodwell
 
-Anon (for now). Staff software engineer who has worked at multiple web2 technology companies where you most likely know or have used all of his software products.
+Walter is the founder of Planigle[^wbodwell], a company which provides consulting, training and tools to help teams get the most out of agile development. While at Planigle, Walter has worked with companies from start ups to large enterprises to assist them in their software practices. He has also developed an agile project management tool to help teams manage their backlogs, their iterations and their releases.
 
 ## Art Director: Kenny Nguyen
 
 Kenny[^knguyen] is a graphic designer from the greater Los Angeles area with over 10 years of experience in brand marketing creative. He specializes in visual storytelling, visual identity and brand marketing helping teams launch product from a graphic perspective.
 
-## Technical Advisor: Walter Bodwell
 
-Walter is the founder of Planigle[^wbodwell], a company which provides consulting, training and tools to help teams get the most out of agile development. While at Planigle, Walter has worked with companies from start ups to large enterprises to assist them in their software practices. He has also developed an agile project management tool to help teams manage their backlogs, their iterations and their releases.
 
 # Disclaimer 
 
@@ -335,10 +337,8 @@ No regulatory authority has examined or approved any of the information set out 
 [^ergodex]: ErgoDEX: token prices. January 2022. https://share.streamlit.io/eeysirhc/ergodex-price-app/main
 [^reddit]: Reddit: User Posts. December 2021. https://www.reddit.com/user/monkey_has_pneumonia/posts/
 [^delphi]: The Delphi Project. February 2022. https://github.com/thedelphiproject
-[^knguyen]: Kenny Nguyen. January 2012. https://www.kennynguyening.com/
 [^wbodwell]: Planigle. January 2010. https://www.planigle.com/
-
-
+[^knguyen]: Kenny Nguyen. January 2012. https://www.kennynguyening.com/
 
 
 
